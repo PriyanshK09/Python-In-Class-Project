@@ -1,4 +1,6 @@
 #Fibonacci Series
+#Formula for FS : "Fn = Fn-1 + Fn-2" where Fn is Current Term
+
 N = int(input("Number of elements in Fibonacci Series : "))
 fiboSeries = [0,1]
 
